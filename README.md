@@ -4,7 +4,7 @@ This repository contains implementations of all Deep Learning Algorithms from sc
 ## 1️⃣Deep Learning Fundamentals
     What is Deep Learning? Deep Learning Vs Machine Learning 
     Types of Neural Networks
-    What is a Perceptron? Perceptron Vs Neuron | Perceptron Geometric Intuition
+    What is a Perceptron? | Perceptron Geometric Intuition
     How to train a Perceptron?
     Perceptron Loss Function | Sigmoid Function
     Problem with Perceptron
