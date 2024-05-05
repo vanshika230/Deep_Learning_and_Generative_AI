@@ -3,9 +3,9 @@ This repository contains implementations of all Deep Learning Algorithms from sc
 # 📚 Topics to be covered are :- 
 ## 1️⃣Deep Learning Fundamentals
     What is Deep Learning? Deep Learning Vs Machine Learning 
-    Types of Neural Networks | History of Deep Learning | Applications of Deep Learning
+    Types of Neural Networks
     What is a Perceptron? Perceptron Vs Neuron | Perceptron Geometric Intuition
-    How to train a Perceptron | Deep Learning Full Course
+    How to train a Perceptron?
     Perceptron Loss Function | Sigmoid Function
     Problem with Perceptron
     MLP Notation
@@ -33,8 +33,8 @@ This repository contains implementations of all Deep Learning Algorithms from sc
     Batch Normalization in Deep Learning
     Optimizers in Deep Learning
     Exponentially Weighted Moving Average or Exponential Weighted Average
-    SGD with Momentum Explained in Detail with Animations
-    Nesterov Accelerated Gradient (NAG) Explained in Detail
+    SGD with Momentum
+    Nesterov Accelerated Gradient (NAG) 
     AdaGrad 
     RMSProp 
     Adam Optimizer 
