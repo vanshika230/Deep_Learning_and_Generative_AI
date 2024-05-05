@@ -67,7 +67,7 @@ This repository contains implementations of all Deep Learning Algorithms from sc
     Gated Recurrent Unit
     Deep RNNs
     Bidirectional RNN
-## 5️⃣ LLM 
+## 5️⃣ Pre - requisite to Generative AI
     The Epic History of Large Language Models (LLMs)
     Encoder Decoder
     Attention Mechanism in 1 video
@@ -79,3 +79,19 @@ This repository contains implementations of all Deep Learning Algorithms from sc
     Self Attention Geometric Intuition
     Why is Self Attention called "Self"?
     What is Multi-head Attention in Transformers
+    
+## 6️⃣ Generative AI 
+    Where GenAI exists?
+    Difference between discriminative and generative models
+    What is LLM?
+    LLM model architecture types and application
+    Introduction of OpenAI and complete walkthrough
+    OpenAI api setup with python
+    Complete Discussion on Vector Database - ChromaDB, Pinecone & Weaviate
+    Open Source LLM models - Learn Meta Llama 2
+    How to use Google PaLM 2 - Open Source LLM model
+    How to use Falcon Open Source LLM model & Fine-Tuning LLMs
+    End-to-end Generative AI Project with LangChain, LLMs, VectorDB & Streamlit
+    How to build Generative AI Application using LlamaIndex - An alternative framework of LangChain
+    How to Build LLM Apps Super Fast with Chainlit
+    End-to-end Generative AI Project with LlamaIndex
