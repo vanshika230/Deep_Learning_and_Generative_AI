@@ -2,7 +2,7 @@
 This repository contains implementations of all Deep Learning Algorithms from scratch in Python. Mathematics required for DL and many projects have also been included. It also has practical tutorials on Generative AI.
 # 📚 Topics to be covered are :- 
 ## 1️⃣Deep Learning Fundamentals
-    What is Deep Learning? Deep Learning Vs Machine Learning | Complete Deep Learning Course
+    What is Deep Learning? Deep Learning Vs Machine Learning 
     Types of Neural Networks | History of Deep Learning | Applications of Deep Learning
     What is a Perceptron? Perceptron Vs Neuron | Perceptron Geometric Intuition
     How to train a Perceptron | Deep Learning Full Course
