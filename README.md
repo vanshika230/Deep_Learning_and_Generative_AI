@@ -2,12 +2,12 @@
 This repository contains implementations of all Deep Learning Algorithms from scratch in Python. Mathematics required for DL and many projects have also been included. It also has practical tutorials on Generative AI.
 # 📚 Topics to be covered are :- 
 ## 1️⃣Deep Learning Fundamentals
-    What is Deep Learning? Deep Learning Vs Machine Learning 
-    Types of Neural Networks
-    What is a Perceptron? | Perceptron Geometric Intuition
-    How to train a Perceptron?
-    Perceptron Loss Function | Sigmoid Function
-    Problem with Perceptron
+    ✅ What is Deep Learning? Deep Learning Vs Machine Learning 
+    ✅ Types of Neural Networks
+    ✅ What is a Perceptron? | Perceptron Geometric Intuition
+    ✅ How to train a Perceptron?
+    ✅ Perceptron Loss Function | Sigmoid Function
+    ✅ Problem with Perceptron
     MLP Notation
     Multi Layer Perceptron | MLP Intuition
     Forward Propagation | How a neural network predicts output?
